@@ -1,4 +1,6 @@
-### Hi there! I'm MINYOUNG! 👋
+### Hi there, I'm ! 👋
+
+<br>
 
 <!--
 **minWachya/minWachya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
