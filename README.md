@@ -40,7 +40,7 @@
     
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minWachya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minWachya&layout=compact&exclude_repo=BigData2023,DSInternetProgramming,Sparta_Algorithm,DS_InternetProgramming_20190054)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
