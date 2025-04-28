@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MinYoung%20Lee&fontSize=90&animation=fadeIn" />
 
-
-  <h1>⭐️ Portfolio ⭐️</h1>
-  <h2><a href="https://www.notion.so/17d223021c6d8027a1e9c42e102aaf4b">고민하는 개발자, 이민영입니다💭</a></h2>
-
   <hr>
   
   <h3>🔧 Tech Stacks </h3>
