@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MinYoung%20Lee&fontSize=90&animation=fadeIn)
 
 # 안녕하세요. 이민영입니다.
-  - mail: minWachya@gmail.com
-  - bolg: [와챠의 우당탕탕 코딩 일기장](https://min-wachya.tistory.com/)
-
   - Tools and Languages:
     - Main: <img src="https://developer.android.com/static/images/brand/android-head_3D.png" alt="android" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
     - Sub: <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -26,3 +23,6 @@
 
 `Android(Kotlin)`, `Hilt`, `RxKotlin`, `coroutine`, `Databinding`, `Livedata`, `ViewModel`, `ViewPager2`, `Retrofit2`
 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
