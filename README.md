@@ -33,9 +33,9 @@
 
 # ✏ 개발 기록
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스 / kotlin] 롤케이크 자르기](https://min-wachya.tistory.com/272)
 - [[Android] 2-3. State, Effect, Coroutine 활용② / Saver / snapshotFlow / LifecycleEventObserver + DisposableEffect / derivedStateOf](https://min-wachya.tistory.com/271)
 - [[프로그래머스 / kotlin] n^2 배열 자르기](https://min-wachya.tistory.com/270)
 - [[백준/프로그래머스] github 자동 연동](https://min-wachya.tistory.com/269)
 - [[Android] 2-3. State, Effect, Coroutine 활용① / LaunchedEffect vs rememberCoroutineScope / collectAsStateWithLifecycle](https://min-wachya.tistory.com/268)
-- [[프로그래머스 / kotlin] 명예의 전당&lpar;1&rpar; / PriorityQueue](https://min-wachya.tistory.com/267)
 <!-- BLOG-POST-LIST:END -->
