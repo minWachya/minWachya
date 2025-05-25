@@ -27,11 +27,11 @@
 >
 > Android 개발
 
-`Android(Kotlin)`, `Hilt`, `RxKotlin`, `coroutine`, `Databinding`, `Livedata`, `ViewModel`, `ViewPager2`, `Retrofit2`
+`Android(Kotlin)`, `Hilt`, `coroutine`, `Databinding`, `Livedata`, `ViewModel`, `ViewPager2`, `Retrofit2`
 
 <br>
 
-# ✏ 개발 기록
+# ✏ 최근 개발 기록
 <!-- BLOG-POST-LIST:START -->
 - [[프로그래머스 / kotlin] 롤케이크 자르기](https://min-wachya.tistory.com/272)
 - [[Android] 2-3. State, Effect, Coroutine 활용② / Saver / snapshotFlow / LifecycleEventObserver + DisposableEffect / derivedStateOf](https://min-wachya.tistory.com/271)
