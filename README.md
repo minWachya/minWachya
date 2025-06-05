@@ -33,9 +33,9 @@
 
 # ✏ 최근 개발 기록
 <!-- BLOG-POST-LIST:START -->
+- [[Android/Kotlin] hide KEY in local.properties](https://min-wachya.tistory.com/275)
 - [[프로그래머스 / kotlin] 실패율 / data class 활용](https://min-wachya.tistory.com/274)
 - [[프로그래머스 / kotlin] 타겟넘버](https://min-wachya.tistory.com/273)
 - [[프로그래머스 / kotlin] 롤케이크 자르기](https://min-wachya.tistory.com/272)
 - [[Android] 2-3. State, Effect, Coroutine 활용② / Saver / snapshotFlow / LifecycleEventObserver + DisposableEffect / derivedStateOf](https://min-wachya.tistory.com/271)
-- [[프로그래머스 / kotlin] n^2 배열 자르기](https://min-wachya.tistory.com/270)
 <!-- BLOG-POST-LIST:END -->
