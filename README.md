@@ -33,9 +33,9 @@
 
 # ✏ 최근 개발 기록
 <!-- BLOG-POST-LIST:START -->
+- [[Android/kotlin] 기상청 단기 예보 조회 api 연결 with Jetpack Compose, MVVM, Hilt &lpar;2&rpar;](https://min-wachya.tistory.com/277)
+- [[Android/kotlin] 기상청 단기 예보 조회 api 연결 with Jetpack Compose, MVVM, Hilt &lpar;1&rpar;](https://min-wachya.tistory.com/276)
 - [[Android/Kotlin] hide KEY in local.properties](https://min-wachya.tistory.com/275)
 - [[프로그래머스 / kotlin] 실패율 / data class 활용](https://min-wachya.tistory.com/274)
 - [[프로그래머스 / kotlin] 타겟넘버](https://min-wachya.tistory.com/273)
-- [[프로그래머스 / kotlin] 롤케이크 자르기](https://min-wachya.tistory.com/272)
-- [[Android] 2-3. State, Effect, Coroutine 활용② / Saver / snapshotFlow / LifecycleEventObserver + DisposableEffect / derivedStateOf](https://min-wachya.tistory.com/271)
 <!-- BLOG-POST-LIST:END -->
