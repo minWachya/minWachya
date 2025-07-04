@@ -33,9 +33,9 @@
 
 # ✏ 최근 개발 기록
 <!-- BLOG-POST-LIST:START -->
+- [[Android] 사용자 위치 정보 + 지역 이름 알아오기&lpar;play-services-location&rpar; 구현기](https://min-wachya.tistory.com/279)
 - [[Android] Compose에서 권한 묻기&lpar;com.google.accompanist:accompanist-permissions&rpar;](https://min-wachya.tistory.com/278)
 - [[Android/kotlin] 기상청 단기 예보 조회 api 연결 with Jetpack Compose, MVVM, Hilt &lpar;2&rpar;](https://min-wachya.tistory.com/277)
 - [[Android/kotlin] 기상청 단기 예보 조회 api 연결 with Jetpack Compose, MVVM, Hilt &lpar;1&rpar;](https://min-wachya.tistory.com/276)
 - [[Android/Kotlin] hide KEY in local.properties](https://min-wachya.tistory.com/275)
-- [[프로그래머스 / kotlin] 실패율 / data class 활용](https://min-wachya.tistory.com/274)
 <!-- BLOG-POST-LIST:END -->
