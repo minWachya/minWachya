@@ -5,8 +5,8 @@
     - Main: <img src="https://developer.android.com/static/images/brand/android-head_3D.png" alt="android" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
     - Sub: <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   - Cowork Tools:
-    - <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-512.png" alt="slack" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" height="40"/> <img src="https://static-00.iconduck.com/assets.00/jira-icon-1024x1024-96tmi3hq.png" alt="jira" height="40"/>
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1365px-Figma-logo.svg.png" alt="figma" height="40"> <img src="https://static-00.iconduck.com/assets.00/zeplin-icon-1024x818-3o36h3nv.png" alt="zeplin" height="40">
+    - <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-512.png" alt="slack" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="jira" height="40"/>
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1365px-Figma-logo.svg.png" alt="figma" height="40"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zeplin-icon.png" alt="zeplin" height="40">
 
 <br>
 
@@ -23,7 +23,7 @@
 ## 2. [TurnAround](https://github.com/Toursix206/turnaround-aos)
 > 집안일 인증을 통해 얻는 리워드로 메타버스 방을 꾸며가는 서비스
 >
-> 스타트업 무급 인턴 | 실무 경험
+> 스타트업 인턴 | 실무 경험
 >
 > Android 개발
 
