@@ -33,9 +33,9 @@
 
 # ✏ 최근 개발 기록
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스 / kotlin] 연속된 부분 수열의 합 / Two Pointers](https://min-wachya.tistory.com/282)
 - [[프로그래머스 / kotlin] 삼각 달팽이 / 규칙 찾기, move](https://min-wachya.tistory.com/281)
 - [[프로그래머스 / kotlin] 문자열 나누기 / Queue 활용](https://min-wachya.tistory.com/280)
 - [[Android] 사용자 위치 정보 + 지역 이름 알아오기&lpar;play-services-location&rpar; 구현기](https://min-wachya.tistory.com/279)
 - [[Android] Compose에서 권한 묻기&lpar;com.google.accompanist:accompanist-permissions&rpar;](https://min-wachya.tistory.com/278)
-- [[Android/kotlin] 기상청 단기 예보 조회 api 연결 with Jetpack Compose, MVVM, Hilt &lpar;2&rpar;](https://min-wachya.tistory.com/277)
 <!-- BLOG-POST-LIST:END -->
