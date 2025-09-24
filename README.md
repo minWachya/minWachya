@@ -33,9 +33,9 @@
 
 # ✏ 최근 개발 기록
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스 / kotlin] 마법의 엘리베이터 / DP](https://min-wachya.tistory.com/284)
 - [[Android] Jetpack Compose State/State Holder/Side Effect](https://min-wachya.tistory.com/283)
 - [[프로그래머스 / kotlin] 연속된 부분 수열의 합 / Two Pointers](https://min-wachya.tistory.com/282)
 - [[프로그래머스 / kotlin] 삼각 달팽이 / 규칙 찾기, move](https://min-wachya.tistory.com/281)
 - [[프로그래머스 / kotlin] 문자열 나누기 / Queue 활용](https://min-wachya.tistory.com/280)
-- [[Android] 사용자 위치 정보 + 지역 이름 알아오기&lpar;play-services-location&rpar; 구현기](https://min-wachya.tistory.com/279)
 <!-- BLOG-POST-LIST:END -->
